@@ -8,4 +8,4 @@ git add which is added the file to staging area
 git commit -m "" by using this we can commited the file 
 got log to check the commit history
 git log --oneline to check the one line of commit history
-
+git show <id> to chek the changes in commit 
