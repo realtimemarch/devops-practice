@@ -1,0 +1,11 @@
+git init which is used to initiate the git 
+git config --global which is user.name  whcih is used to setup the name
+
+git config --global which is user.email  whcih is used to setup theemail
+cat>sample to create file
+git status to check the status of file
+git add which is added the file to staging area
+git commit -m "" by using this we can commited the file 
+got log to check the commit history
+git log --oneline to check the one line of commit history
+
